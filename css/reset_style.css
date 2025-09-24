@@ -74,6 +74,7 @@
   margin: 0px;
   padding: 0px;
   font-family: "Presentation";
+  user-select: none;
 }
 ul {
   list-style: none;
